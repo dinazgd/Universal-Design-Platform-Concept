@@ -1,0 +1,30 @@
+{
+  "name": "universal-design-platform-concept",
+  "version": "1.0.0",
+  "description": "A platform that allows creators to design content for different platforms (social media, blogs, websites, etc.) with a single interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinazg/Universal-Design-Platform-Concept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinazg/Universal-Design-Platform-Concept/issues"
+  },
+  "homepage": "https://github.com/dinazg/Universal-Design-Platform-Concept#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.15.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
